@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Desktop Assistance",
+    "imageSrc": "",
+    "description": "It uses semantic data sources available on the web and provide knowledge from the web .The mainaim of this project is to answer questions from the ineternet to the user. through voice",
+    "skills": ["Python"],
+    "demo": "https://github.com/AlbarKhan/DesktopAssistance",
+    "source": "https://github.com/AlbarKhan/DesktopAssistance"
+  },
+  {
+    "title": "Blog Website",
+    "imageSrc": "",
+    "description": "Developed a dynamic and responsive personal blog using HTML, CSS, and PHP, demonstrating expertise in both front-end and server-side development.",
+    "skills": ["html", "css", "javascript", "php"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Movie Rating (WebApp)",
+    "imageSrc": "",
+    "description": " Successfully developed a dynamic movie rating web application utilizing external APIs for data retrieval and local storage for enhanced user interaction.",
+    "skills": ["html", "css", "javascript", "React"],
+    "demo": "https://github.com/AlbarKhan/Movie_Rating-Reviews-Reacct-",
+    "source": "https://github.com/AlbarKhan/Movie_Rating-Reviews-Reacct-"
+  },
+  {
+    "title": "Revenue Radar (WebApp)",
+    "imageSrc": "",
+    "description": " As a proficient React developer,I conceptualized and developed the Revenue web application,allowing users to meticulously track their sales and purchases by manually adding data through anintuitive form. With a focus on user experience and functionality.",
+    "skills": ["html", "css", "javascript", "React"],
+    "demo": "https://github.com/AlbarKhan/RevenueRadar-React-",
+    "source": "https://github.com/AlbarKhan/RevenueRadar-React-"
+  },
+  {
+    "title": "Mapty (WebApp)",
+    "imageSrc": "",
+    "description": "Developed a fitness tracking web application called Mapty using JavaScript and the Leaflet library. Mapty enables users to track their outdoor activities such as running or cycling by allowing them to select locations on a map and record details like distance traveled.",
+    "skills": ["html", "css", "javascript", "leaflet"],
+    "demo": "https://github.com/AlbarKhan/Mapty-app-Javascript",
+    "source": "https://github.com/AlbarKhan/Mapty-app-Javascript"
+  },
+  {
+    "title": "Bankist (Web App)",
+    "imageSrc": "",
+    "description": "Designed and developed a robust web application utilizing React, enabling users to seamlesslytransfer funds between accounts, request loans, and manage their accounts securely. Implementedintuitive user workflows and optimized performance through efficient front-end design principles",
+    "skills": ["html", "css", "javascript", "React"],
+    "demo": "https://github.com/AlbarKhan/BankDashboard-React-",
+    "source": "https://github.com/AlbarKhan/BankDashboard-React-"
+  }
+]
+
+

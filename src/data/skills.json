@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://raw.githubusercontent.com/CodeCompleteYT/react-portfolio/main/assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://raw.githubusercontent.com/CodeCompleteYT/react-portfolio/main/assets/skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "https://tse1.mm.bing.net/th?id=OIP.BMXxh0nGocZLZfbY8m17UwHaHa&pid=Api&P=0&h=180"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "https://icon.icepanel.io/Technology/svg/Bootstrap.svg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "https://raw.githubusercontent.com/CodeCompleteYT/react-portfolio/main/assets/skills/react.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "https://clipground.com/images/java-logo-png-6.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "https://pngteam.com/images/python-logo-png-1024x1024_7d6af8d1_transparent_2023e8.png.png"
+  },
+  {
+    "title": "Sql",
+    "imageSrc": "https://icon.icepanel.io/Technology/svg/MySQL.svg"
+  }
+]
